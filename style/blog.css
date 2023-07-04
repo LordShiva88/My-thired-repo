@@ -1,4 +1,9 @@
 
+div{
+    background-color: red;
+    margin:20px;
+    padding: 10px;
+}
 h1{
     color: aqua;
 }
@@ -6,4 +11,5 @@ p{
     text-align: justify;
     color: rgb(0, 0, 0);
     background-color: rgb(223, 223, 10);
+    padding: 10px;
 }
